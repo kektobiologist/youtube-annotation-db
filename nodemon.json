@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "ignore": ["*.test.js", "fixtures/*", "view/", "public/"],
+  "env": {
+    "MONGODB_URI": "mongodb://localhost/youtube-annotation-db",
+    "PORT": 8080
+  }
+}
